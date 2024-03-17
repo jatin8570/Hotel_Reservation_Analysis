@@ -4,7 +4,8 @@ In this Project, we will use SQL to answer the questions related to dataset. Thi
 
 ### Overview: 
 The hotel industry relies on data to make informed decisions and provide a better guest experience. In this internship, you will work with a hotel reservation dataset to gain insights into guest preferences, booking trends, and other key factors that impact the hotel's operations. We will use SQL to query and analyze the data, as well as answer specific questions about the dataset. 
-Dataset Details: 
+
+### Dataset Details: 
 The dataset includes the following columns: 
 * Booking_ID: A unique identifier for each hotel reservation.
 * no_of_adults: The number of adults in the reservation.
